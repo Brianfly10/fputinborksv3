@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92E33B2CD4A2882298CE6dBD4997405FdE9B0e28",
+  "SCAN_LINK": "https://polygonscan.com/address/0x92e33b2cd4a2882298ce6dbd4997405fde9b0e28",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "F**k Putin Borks",
+  "SYMBOL": "FKPB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/FKPBorks",
+  "SHOW_BACKGROUND": true
+}
